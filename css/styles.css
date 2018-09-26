@@ -33,3 +33,10 @@ p {
 a {
     color: darkred;
 }
+
+#special { color : #FF0000;
+}
+body a {
+    font-family: cursive;
+}
+
